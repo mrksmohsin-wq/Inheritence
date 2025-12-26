@@ -1,4 +1,4 @@
-# 👨‍👧‍👧Inhertence
+# 👨‍👧‍👧Inheritance
 Inheritance in C# is a fundamental principle of object-oriented programming (OOP) that allows a new class to inherit properties, fields, and methods from an existing class, promoting code reuse and establishing a hierarchical relationship.
 ### Base Class (Parent Class/Superclass):
 The class whose features are inherited.
