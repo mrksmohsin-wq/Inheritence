@@ -20,6 +20,6 @@ Multiple derived classes inherit from a single base class (e.g., both Dog and Ca
 #### 4-Multiple Inheritance:
 C# does not support multiple inheritance of classes. However, this can be achieved by implementing multiple interfaces. 
 ### Real life Examples
-- 1-Bank Account Inheritance
+- 1-Animal → Dog
 - 2-Person → Student & Teacher
 - 3-Vehicle → Car & Bike
