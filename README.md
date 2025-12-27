@@ -4,6 +4,11 @@
 The class whose features are inherited.
 - ### Derived Class (Child Class/Subclass):
 The new class that inherits the features of the base class.  
+## Why use Inheritance?
+-✅ Reuse existing code
+-✅ Reduce duplication
+-✅ Improve readability
+-✅ Support polymorphism
 ## Types of Inhertence
 C# directly supports certain types of inheritance with classes and uses interfaces to achieve others. 
 #### 1-Single Inheritance:
