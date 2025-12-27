@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Example_2\Example_2\bin\Debug\Example_2.exe.config
+C:\Users\User\source\repos\Example_2\Example_2\bin\Debug\Example_2.exe
+C:\Users\User\source\repos\Example_2\Example_2\bin\Debug\Example_2.pdb
+C:\Users\User\source\repos\Example_2\Example_2\obj\Debug\Example_2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Example_2\Example_2\obj\Debug\Example_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Example_2\Example_2\obj\Debug\Example_2.exe
+C:\Users\User\source\repos\Example_2\Example_2\obj\Debug\Example_2.pdb
+C:\Users\User\source\repos\Example_2\Example_2\obj\Debug\Example_2.exe.config
